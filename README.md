@@ -5,6 +5,9 @@ A lightweight, terminal-based To-Do List application written in pure Python. Thi
 ---
 
 ## Preview
+
+
+
 ##  Features
 
 -  **Add Tasks**: Easily append new tasks to your list.
