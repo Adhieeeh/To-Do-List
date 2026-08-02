@@ -6,7 +6,7 @@ A lightweight, terminal-based To-Do List application written in pure Python. Thi
 
 ## Preview
 
-!
+![]
 
 ##  Features
 
